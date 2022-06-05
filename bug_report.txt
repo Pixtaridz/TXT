@@ -10,4 +10,4 @@
   Steps to reproduce: Шаги к воспроизведению
   Actual Result: Результат
   Expected Result:Ожидаемый результат
-  Attachments: Вложение скриншотов, логов, видео, гиф
+  Attachments: Вложение скриншотов, логов, видео, гиф.
